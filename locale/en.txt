@@ -1,0 +1,92 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = TK Padmini Gallery
+
+## Skin
+
+### Multiline Text
+HTMLText_14F8E32E_05E2_079D_4192_B196F2702CD0.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.7200000000000006vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#99bb1b;font-size:2.72vh;font-family:'Antonio';"><B>T. K. Padmini</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.72vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.9875776397515525vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:1.99vh;font-family:'Open Sans Semibold';"><B>T.K. Padmini was born on May 12, 1940 in Kadancheri a remote and sleepy village of Ponnani, a coastal town of Kerala. She had her education at A.V. High School, Ponnani. Had a brief course of training from Mr. K.L. Devassi, the arts teacher of A.V. High School and Mr. K.M. Vasudevan Namboodiri (Artist Namboodiri), the well-known painter, sculptor and illustrator. She joined the College of Fine Arts and Crafts at Chennai (formerly Madras) in 1961 under the guidance of Principal K.C.S. Panikkar, and received Diploma in Painting (irst class, irst rank) in 1965). She had worked in Madras Vidyodaya Girls High School, Adarsh Vidyalaya Matriculation School and Children's Garden School, as teacher. In May 1968 she married her co-student and well-known painter K. Damodaran. Padmini, during her very short life, surpassed apparently insurmountable problems to come out of the limitations that destiny imposed on her in terms of geography, people and custom. Her unlagging courage helped her to face obstacles and leave an indelible mark of her personality on Indian painting. Sadly, destiny caught up with her ending her life at the ripe age of 29 when lot more of her artistic contributions were waiting to come out. After Amrita Sher Gill, seldom has as strong a feminine presence overwhelmed the Indian artistic sensibility as that of Padmini’s. Her paintings provide an insight to the viewer about what a woman sees and priorities in woman’s body and soul as subject of art. Padmini’s paintings carry pure imageries of the serene and peaceful village, and our cultural life. And surely, all right thinking art lovers would be convinced that these are the imageries and archaic symbols that need to be nurtured to preserve our cultural heritage. It seems that only the goodness of the archetypical village, a bit of which all of us carry, sustains life in the long term. Awards: Madras State Lalit Kala Academy ’63 highly commended certiicate for the painting ‘Growth’ , Madras State Lalit Kala Academy ’67 Award for ‘Dreamland’, Madras State Lalit Kala Academy ’67 Award for ‘Dawn’ , A.Y.P.S. ’65 Award for ‘Women’.</B></SPAN></SPAN></DIV></div>
+HTMLText_181CDEA0_005A_DF1C_413A_ED519DB0D300_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:19px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:19px;font-family:'Times New Roman', Times, serif;">T.K. Padmini Gallery</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#666666;font-size:13px;font-family:'Times New Roman', Times, serif;">Durbar Hall Art Gallery, Kochi</SPAN></SPAN></DIV></div>
+
+### Label
+Label_91A73B33_9ED4_F979_41B2_033D9BC5A59E.text = Photography/360° Virtual Tour: Feroze Babu & Rifaz Mohammed
+Label_930EEF38_9EDB_7977_41D4_58EEBB226208.text = TK Padmini Gallery, Ernakulam.
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+Image_1D556AB2_05A2_0685_4180_D015EDAC48C4.toolTip = About TK Padmini
+
+## Media
+
+### Title
+album_908FF4A8_9DF1_BE08_41C9_7E8944C2D675.label = TK Padmin's Photos
+album_908FF4A8_9DF1_BE08_41C9_7E8944C2D675_0.label = 1 copy
+album_908FF4A8_9DF1_BE08_41C9_7E8944C2D675_1.label = 2 copy
+album_908FF4A8_9DF1_BE08_41C9_7E8944C2D675_2.label = 3 copy
+album_908FF4A8_9DF1_BE08_41C9_7E8944C2D675_3.label = 4 copy
+album_908FF4A8_9DF1_BE08_41C9_7E8944C2D675_4.label = 5 copy
+album_908FF4A8_9DF1_BE08_41C9_7E8944C2D675_5.label = 7 copy
+album_908FF4A8_9DF1_BE08_41C9_7E8944C2D675_6.label = 8 copy
+album_908FF4A8_9DF1_BE08_41C9_7E8944C2D675_7.label = 9 copy
+album_908FF4A8_9DF1_BE08_41C9_7E8944C2D675_8.label = 10 copy
+album_908FF4A8_9DF1_BE08_41C9_7E8944C2D675_9.label = 11 copy
+album_AABCE781_99C9_5567_41D4_DAAD92B853AC.label = sketch-book
+album_AABCE781_99C9_5567_41D4_DAAD92B853AC_1.label = DSC09544
+album_AABCE781_99C9_5567_41D4_DAAD92B853AC_2.label = DSC09547
+album_AABCE781_99C9_5567_41D4_DAAD92B853AC_3.label = DSC09557
+album_AABCE781_99C9_5567_41D4_DAAD92B853AC_4.label = DSC09559
+album_AABCE781_99C9_5567_41D4_DAAD92B853AC_5.label = DSC09562
+album_AABCE781_99C9_5567_41D4_DAAD92B853AC_6.label = DSC09572
+album_AABCE781_99C9_5567_41D4_DAAD92B853AC_7.label = DSC09585
+album_AABCE781_99C9_5567_41D4_DAAD92B853AC_8.label = DSC09597
+album_AABCE781_99C9_5567_41D4_DAAD92B853AC_9.label = DSC09599
+panorama_84BCA1B7_99CE_CCAB_41A4_DBDC65D06CB7.label = Padmini-gallery 13
+panorama_8AA5F568_99CA_D5A5_41CE_C5C2819EFC76.label = Padmini-gallery 5
+panorama_8B94F6A9_99CA_F4A7_41DA_79AA3EE94C2E.label = Padmini-gallery 6
+panorama_8B952890_99C9_3B65_41D3_4716303AE7FE.label = Padmini-gallery 8
+panorama_8B956AA1_99C9_7CA7_41B4_8A0186ACE6AA.label = Padmini-gallery 10
+panorama_8B956C9D_99C9_349F_41CF_5502126CFE21.label = Padmini-gallery 12
+panorama_8B969B9C_99C9_5C9D_41B7_C7B6BA6426FC.label = Padmini-gallery 11
+panorama_8B96B990_99C9_5D65_41DC_2B625F96787C.label = Padmini-gallery 9
+panorama_8B96D7A5_99CA_D4AF_41E2_A9D66DFD0F12.label = Padmini-gallery 7
+panorama_9548578F_99AB_4B46_41E1_78BC307B61E1.label = Padmini-gallery 4
+panorama_9551B266_99AB_45F9_41C0_F09EEF844E82.label = Padmini-gallery 3
+panorama_96FAE706_99B5_4B39_41CD_E6630142192F.label = Padmini-gallery 2
+panorama_BE9B3C37_99DB_3BAB_41B3_576363248F2A.label = Padmini-gallery 00
+photo_A9B92703_99C9_756B_41D1_94FD08C03E91.label = DSC00096
+photo_A9B92703_99C9_756B_41D1_94FD08C03E91.label = DSC00096
+photo_B6CF2A01_99C9_7F67_41BB_14A87B31D53D.label = DSC08862
+photo_B6CF2A01_99C9_7F67_41BB_14A87B31D53D.label = DSC08862
+photo_B6CF4664_99C9_57AD_41E1_8239A2CBB951.label = DSC09534
+photo_B6CF4664_99C9_57AD_41E1_8239A2CBB951.label = DSC09534
+photo_B6CF4C1A_99C9_5B65_41C2_3F02D5D87EDD.label = DSC09538
+photo_B6CF4C1A_99C9_5B65_41C2_3F02D5D87EDD.label = DSC09538
+photo_B6CF4C6C_99C9_7BBD_41C1_8C6BBB5D9094.label = DSC08948
+photo_B6CF4C6C_99C9_7BBD_41C1_8C6BBB5D9094.label = DSC08948
+photo_B6CF53F7_99C9_4CAB_41C0_57BADFF46C79.label = DSC09529
+photo_B6CF53F7_99C9_4CAB_41C0_57BADFF46C79.label = DSC09529
+photo_B6CF6ED1_99C9_74E7_41D7_F3F66DEF7792.label = DSC09195
+photo_B6CF6ED1_99C9_74E7_41D7_F3F66DEF7792.label = DSC09195
+photo_B6CF7165_99C9_4DAF_41D2_9892673138C1.label = DSC09439
+photo_B6CF7165_99C9_4DAF_41D2_9892673138C1.label = DSC09439
+
+## Popup
+
+### Title
+window_9549A2F2_9A2B_DBFF_41AE_CFF3A5A43B16.title = TK  Padmini's personal treasure
+window_954F57CC_9A2A_7A2B_41CE_C02C285DD401.title = TK  Padmini's personal treasure
+window_95531201_9A2A_7A1D_41BE_BDD158B281D4.title = TK  Padmini's personal treasure
+window_9561D68A_9A2A_7A2F_41D5_4A256B5F10F2.title = TK  Padmini's personal treasure
+window_959625A7_9A16_FE65_41CC_5141DE3A0B6B.title = TK  Padmini's personal treasure
+window_95E458DE_9A2E_D627_41DF_AC790C25881C.title = TK  Padmini's personal treasure
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_8C3B0786_9EE6_59CB_41BE_176D094CBCB9.toolTip = Exit
